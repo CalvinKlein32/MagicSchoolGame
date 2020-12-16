@@ -1,0 +1,96 @@
+
+the_player.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Woodcutter_attack1
+  rotate: false
+  xy: 1, 201
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_attack2
+  rotate: false
+  xy: 1, 151
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_attack3
+  rotate: false
+  xy: 291, 201
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_climb
+  rotate: false
+  xy: 1, 101
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_craft
+  rotate: false
+  xy: 291, 151
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_death
+  rotate: false
+  xy: 581, 201
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_jump
+  rotate: false
+  xy: 1, 51
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_push
+  rotate: false
+  xy: 291, 101
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_run
+  rotate: false
+  xy: 581, 151
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_walk
+  rotate: false
+  xy: 1, 1
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_idle
+  rotate: false
+  xy: 291, 51
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_hurt
+  rotate: false
+  xy: 871, 201
+  size: 144, 48
+  orig: 144, 48
+  offset: 0, 0
+  index: -1
+Woodcutter
+  rotate: false
+  xy: 581, 101
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
