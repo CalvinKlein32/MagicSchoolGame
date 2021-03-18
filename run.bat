@@ -1,0 +1,1 @@
+java -jar Magical_school.jar
